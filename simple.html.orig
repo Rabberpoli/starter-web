@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!-- copyright stuff--!>
+
+<head>
+	<title>respectful website here</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+<<<<<<< HEAD
+			hope it will be nice this time
+=======
+			many comments 
+>>>>>>> realwork
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; git training</p>
+	</footer>
+</body>
+</html>
