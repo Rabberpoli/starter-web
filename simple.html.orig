@@ -1,8 +1,6 @@
 <!DOCTYPE html>
-<!-- copyright stuff--!>
 
 <head>
-	<title>respectful website here</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -16,15 +14,10 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-<<<<<<< HEAD
-			hope it will be nice this time
-=======
-			many comments 
->>>>>>> realwork
+			just big trouble, nothing else
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; git training</p>
 	</footer>
 </body>
 </html>
